@@ -1,0 +1,29 @@
+{
+  "id": "varley-info-theory-2023",
+  "title": "Information Theory for Complex Systems Scientists: What, Why, & How?",
+  "slug": "varley-info-theory-2023",
+  "authors": ["Thomas F. Varley"],
+  "abstract": "In the 21st century, many of the crucial scientific and technical issues facing humanity can be understood as problems associated with understanding, modeling, and ultimately controlling complex systems. Information theory has emerged as a lingua franca for those studying complex systems. This review provides an accessible introduction to modern information theory for complex systems scientists, covering standard measures (Shannon entropy, mutual information) before building to advanced topics including information dynamics, measures of statistical complexity, information decomposition, and effective network inference.",
+  "year": 2023,
+  "date": "2023-04-24",
+  "venue": "arXiv:2304.12482 [cs.IT] (later Physics Reports 2025)",
+  "pageCount": 113,
+  "githubLinks": [
+    "https://github.com/jlizier/jidt",
+    "https://github.com/pwollstadt/IDTxl",
+    "https://github.com/dit/dit",
+    "https://github.com/nmtimme/Neuroscience-Information-Theory-Toolbox"
+  ],
+  "codeLinks": [],
+  "difficulty": "Intermediate",
+  "paperType": "Survey/Tutorial",
+  "topics": [
+    "Information Theory",
+    "Complex Systems",
+    "Partial Information Decomposition",
+    "Network Inference",
+    "Statistical Complexity",
+    "Entropy",
+    "Mutual Information"
+  ]
+}

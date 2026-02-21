@@ -1,0 +1,25 @@
+{
+  "id": "optimal-transport-for-machine-learners",
+  "title": "Optimal Transport for Machine Learners",
+  "slug": "optimal-transport-for-machine-learners",
+  "authors": ["Gabriel Peyré"],
+  "affiliations": ["CNRS and ENS, PSL Université"],
+  "abstract": "Optimal Transport is a foundational mathematical theory that connects optimization, partial differential equations, and probability. It offers a powerful framework for comparing probability distributions and has recently become an important tool in machine learning, especially for designing and evaluating generative models. These course notes cover the fundamental mathematical aspects of OT, including the Monge and Kantorovich formulations, Brenier's theorem, the dual and dynamic formulations, the Bures metric on Gaussian distributions, and gradient flows. It also introduces numerical methods such as linear programming, semi-discrete solvers, and entropic regularization. Applications in machine learning include topics like training neural networks via gradient flows, token dynamics in transformers, and the structure of GANs and diffusion models.",
+  "year": 2025,
+  "date": "2025-06-08",
+  "arxivId": "2505.06589",
+  "type": "Course Notes",
+  "difficulty": "Intermediate to Advanced",
+  "githubLinks": [],
+  "codeLinks": [],
+  "keywords": [
+    "Optimal Transport",
+    "Monge Problem",
+    "Kantorovich Formulation",
+    "Wasserstein Distance",
+    "Gradient Flows",
+    "Generative Models",
+    "Diffusion Models",
+    "Entropic Regularization"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "papers": [
+    {
+      "id": "varley-info-theory-2023",
+      "title": "Information Theory for Complex Systems Scientists: What, Why, \u0026 How?",
+      "slug": "varley-info-theory-2023",
+      "authors": ["Thomas F. Varley"],
+      "affiliations": ["Indiana University"],
+      "abstract": "This review provides an accessible introduction to modern information theory for complex systems scientists. It covers standard measures (Shannon entropy, mutual information) before building to advanced topics including information dynamics, measures of statistical complexity, information decomposition, and effective network inference. The paper aims to enable readers to understand what information is, and how it is used, at a fundamental level.",
+      "year": 2023,
+      "date": "2023-04-24",
+      "arxivId": "2304.12482",
+      "type": "Review/Tutorial",
+      "difficulty": "Intermediate",
+      "githubLinks": [
+        "https://github.com/jlizier/jidt",
+        "https://github.com/pwollstadt/IDTxl",
+        "https://github.com/dit/dit",
+        "https://github.com/nmtimme/Neuroscience-Information-Theory-Toolbox"
+      ],
+      "codeLinks": [],
+      "keywords": [
+        "Information Theory",
+        "Complex Systems",
+        "Partial Information Decomposition",
+        "Network Inference",
+        "Statistical Complexity",
+        "Entropy",
+        "Mutual Information",
+        "Transfer Entropy"
+      ]
+    },
+    {
+      "id": "optimal-transport-for-machine-learners",
+      "title": "Optimal Transport for Machine Learners",
+      "slug": "optimal-transport-for-machine-learners",
+      "authors": ["Gabriel Peyré"],
+      "affiliations": ["CNRS and ENS, PSL Université"],
+      "abstract": "Optimal Transport is a foundational mathematical theory that connects optimization, partial differential equations, and probability. It offers a powerful framework for comparing probability distributions and has recently become an important tool in machine learning, especially for designing and evaluating generative models. These course notes cover the fundamental mathematical aspects of OT, including the Monge and Kantorovich formulations, Brenier's theorem, the dual and dynamic formulations, the Bures metric on Gaussian distributions, and gradient flows. It also introduces numerical methods such as linear programming, semi-discrete solvers, and entropic regularization. Applications in machine learning include topics like training neural networks via gradient flows, token dynamics in transformers, and the structure of GANs and diffusion models.",
+      "year": 2025,
+      "date": "2025-06-08",
+      "arxivId": "2505.06589",
+      "type": "Course Notes",
+      "difficulty": "Intermediate to Advanced",
+      "githubLinks": [],
+      "codeLinks": [],
+      "keywords": [
+        "Optimal Transport",
+        "Monge Problem",
+        "Kantorovich Formulation",
+        "Wasserstein Distance",
+        "Gradient Flows",
+        "Generative Models",
+        "Diffusion Models",
+        "Entropic Regularization"
+      ]
+    }
+  ]
+}
