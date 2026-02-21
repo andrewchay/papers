@@ -1,0 +1,27 @@
+{
+  "id": "finzi-epiplexity-2026",
+  "title": "From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence",
+  "slug": "finzi-epiplexity-2026",
+  "authors": ["Marc Finzi", "Shikai Qiu", "Yiding Jiang", "Pavel Izmailov", "J. Zico Kolter", "Andrew Gordon Wilson"],
+  "affiliations": ["Carnegie Mellon University", "New York University"],
+  "abstract": "Can we learn more from data than existed in the generating process itself? Can new and useful information be constructed from merely applying deterministic transformations to existing data? Shannon information and Kolmogorov complexity come up nearly empty-handed on these questions, in part because they assume observers with unlimited computational capacity. We introduce epiplexity, a formalization of information capturing what computationally bounded observers can learn from data. Epiplexity captures structural content while excluding time-bounded entropy, enabling us to demonstrate how information can be created with computation, how it depends on data ordering, and how likelihood modeling can produce more complex programs than present in the data generating process.",
+  "year": 2026,
+  "date": "2026-01-06",
+  "venue": "arXiv:2601.03220 [cs.LG]",
+  "pageCount": 65,
+  "githubLinks": [
+    "https://github.com/preetum/cifar5m"
+  ],
+  "codeLinks": [],
+  "difficulty": "Advanced",
+  "paperType": "Theoretical/Empirical",
+  "topics": [
+    "Information Theory",
+    "Epiplexity",
+    "Computational Complexity",
+    "Kolmogorov Complexity",
+    "MDL",
+    "OOD Generalization",
+    "Data Selection"
+  ]
+}

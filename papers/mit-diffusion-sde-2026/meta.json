@@ -1,0 +1,25 @@
+{
+  "id": "mit-diffusion-sde-2026",
+  "title": "MIT 6.S184: Generative AI With Stochastic Differential Equations",
+  "slug": "mit-diffusion-sde-2026",
+  "authors": ["MIT CSAIL"],
+  "affiliations": ["Massachusetts Institute of Technology"],
+  "abstract": "This course provides a comprehensive introduction to generative AI through the lens of stochastic differential equations (SDEs) and ordinary differential equations (ODEs). It covers flow matching, diffusion models, consistency models, and their connections to optimal transport. The course bridges theoretical foundations with practical implementation, including neural network parameterization, simulation methods, and advanced topics like flow straightening and distillation.",
+  "year": 2026,
+  "date": "2026-01-01",
+  "venue": "MIT CSAIL Course Notes",
+  "pageCount": 200,
+  "githubLinks": [],
+  "codeLinks": [],
+  "difficulty": "Intermediate to Advanced",
+  "paperType": "Course Notes",
+  "topics": [
+    "Diffusion Models",
+    "Stochastic Differential Equations",
+    "Flow Matching",
+    "Optimal Transport",
+    "Generative AI",
+    "Neural ODEs",
+    "Consistency Models"
+  ]
+}

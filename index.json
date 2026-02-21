@@ -54,6 +54,56 @@
         "Diffusion Models",
         "Entropic Regularization"
       ]
+    },
+    {
+      "id": "finzi-epiplexity-2026",
+      "title": "From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence",
+      "slug": "finzi-epiplexity-2026",
+      "authors": ["Marc Finzi", "Shikai Qiu", "Yiding Jiang", "Pavel Izmailov", "J. Zico Kolter", "Andrew Gordon Wilson"],
+      "affiliations": ["Carnegie Mellon University", "New York University"],
+      "abstract": "We introduce epiplexity, a formalization of information capturing what computationally bounded observers can learn from data. Epiplexity captures structural content while excluding time-bounded entropy, enabling us to demonstrate how information can be created with computation, how it depends on data ordering, and how likelihood modeling can produce more complex programs than present in the data generating process.",
+      "year": 2026,
+      "date": "2026-01-06",
+      "arxivId": "2601.03220",
+      "type": "Theoretical/Empirical",
+      "difficulty": "Advanced",
+      "githubLinks": [
+        "https://github.com/preetum/cifar5m"
+      ],
+      "codeLinks": [],
+      "keywords": [
+        "Information Theory",
+        "Epiplexity",
+        "Computational Complexity",
+        "Kolmogorov Complexity",
+        "MDL",
+        "OOD Generalization",
+        "Data Selection"
+      ]
+    },
+    {
+      "id": "mit-diffusion-sde-2026",
+      "title": "MIT 6.S184: Generative AI With Stochastic Differential Equations",
+      "slug": "mit-diffusion-sde-2026",
+      "authors": ["MIT CSAIL"],
+      "affiliations": ["Massachusetts Institute of Technology"],
+      "abstract": "This course provides a comprehensive introduction to generative AI through the lens of stochastic differential equations (SDEs) and ordinary differential equations (ODEs). It covers flow matching, diffusion models, consistency models, and their connections to optimal transport.",
+      "year": 2026,
+      "date": "2026-01-01",
+      "venue": "MIT CSAIL Course Notes",
+      "type": "Course Notes",
+      "difficulty": "Intermediate to Advanced",
+      "githubLinks": [],
+      "codeLinks": [],
+      "keywords": [
+        "Diffusion Models",
+        "Stochastic Differential Equations",
+        "Flow Matching",
+        "Optimal Transport",
+        "Generative AI",
+        "Neural ODEs",
+        "Consistency Models"
+      ]
     }
   ]
 }
